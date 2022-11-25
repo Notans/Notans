@@ -21,7 +21,7 @@
 - REST и SOAP; Postman и SoapUI 
 
  Практика:
- - Создание тест-кейсов
+ - [Создание тест-кейсов](https://github.com/Notans/Notans/blob/main/Pictures/README.md)
  - Работа с JIRA и TestRail
  - Основы HTML + css
  - Основы SQL на уровне простых запросов 
