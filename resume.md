@@ -21,6 +21,7 @@
 - REST и SOAP; Postman и SoapUI 
 
  Практика:
+ - Создание тест-кейсов
  - Работа с JIRA и TestRail
  - Основы HTML + css
  - Основы SQL на уровне простых запросов 
