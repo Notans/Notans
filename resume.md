@@ -23,6 +23,6 @@ QA Manual. Интересна профессия тестировщика, хо�
  Практика:
  - [Создание тест-кейсов](https://github.com/Notans/Notans/blob/main/Pictures/README.md)
  - Работа с JIRA и TestRail
- - Основы HTML + css
+ - [Основы HTML + css](https://github.com/Notans/Notans/blob/main/Pictures/Web/README.md)
  - Основы SQL на уровне простых запросов 
  - Использование DevTools
